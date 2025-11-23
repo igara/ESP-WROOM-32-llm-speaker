@@ -1,0 +1,12 @@
+{
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.renderControlCharacters": true,
+  "files.insertFinalNewline": true,
+  "files.eol": "\n",
+  "arduino.clearOutputOnBuild": true,
+  "arduino.enableUSBDetection": true,
+  "arduino.useArduinoCli": true,
+  "C_Cpp.intelliSenseEngine": "Tag Parser"
+}

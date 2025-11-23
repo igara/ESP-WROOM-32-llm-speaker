@@ -1,0 +1,6 @@
+{
+    "port": "/dev/tty.usbserial-0001",
+    "output": "./build",
+    "board": "esp32:esp32:esp32",
+    "sketch": "ESP-WROOM-32-llm-speaker/ESP-WROOM-32-llm-speaker.ino"
+}
