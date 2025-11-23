@@ -8,5 +8,8 @@
   "arduino.clearOutputOnBuild": true,
   "arduino.enableUSBDetection": true,
   "arduino.useArduinoCli": true,
-  "C_Cpp.intelliSenseEngine": "Tag Parser"
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "files.associations": {
+    "ostream": "cpp"
+  }
 }

@@ -13,6 +13,10 @@
     - 2.3.6
   - CLI Version
     - 1.2.0
+  - Libraries
+    - [AquesTalk ESP32](https://www.a-quest.com/products/aquestalk_esp32.html)
+      - Version
+        - 2.4.4
 
 - VSCode
   - Extension
